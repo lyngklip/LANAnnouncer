@@ -2,7 +2,7 @@
 
 # LAN Announcer
 
-Announces the server to the LAN using multicast UDP.
+Announces the server to the LAN using multicast UDP [now with relaxed version requirements].
 
 Sends an announcement packet every 1.5 seconds on both IPv4 and IPv6, similar to how the normal Minecraft client does when you "Open to LAN".
 
